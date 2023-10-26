@@ -4,6 +4,7 @@ import Welcome from './components/Welcome';
 import ListCast from './components/ListCast';
 import Modals from './components/Modals';
 import Support from './components/Support';
+import "./App.scss";
 
 function App() {
   const name = 'StarGazers'

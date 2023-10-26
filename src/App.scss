@@ -1,0 +1,10 @@
+@import "@picocss/pico";
+/* 
+:root{
+  --primary: skyblue !important;
+} 
+q*/
+h1, h2, h3, h4, h5, h6, b {
+  /* color:steelblue; */
+  color: var(--primary);
+}
